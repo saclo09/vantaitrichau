@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: http://vantaitrichau.com/Home
+Disallow: http://vantaitrichau.com/Home.aspxv%E1%BA%ADn
+Disallow: http://vantaitrichau.com/bv-list/2/Van-Chuyen-Hang-Hoa-Tu-Tp-HCM-Di-Cac-Tinh-Mien-Tay.aspxv%E1%BA%ADn
+Disallow: http://vantaitrichau.com/bv-list/6/Van-Chuyen-Hang-Hoa-Tu-Tp-HCM-Di-Cac-Tinh-Mien-Trung.aspxv%E1%BA%ADn
+Disallow: http://vantaitrichau.com/bv-list/7/Van-Chuyen-Hang-Hoa-Tu-Tp-HCM-Di-Cac-Tinh-Mien-Bac.aspxv%E1%BA%ADn
+Disallow: http://vantaitrichau.com/bv-list/4/Van-chuyen-hang-hoa-nam-trung-bac-bang-xe-Container.aspxv%E1%BA%ADn
+Disallow: http://vantaitrichau.com/bv-list/10/Van-chuyen-hang-hoa-Viet-LaoCampuchia.aspxv%E1%BA%ADn
+Disallow: http://vantaitrichau.com/bv-list/8/Van-Chuyen-Hang-Hoa-Di-Tay-Nguyen.aspxv%E1%BA%ADn
+Disallow: http://vantaitrichau.com/bv-list/36/thu-thuat1.aspx
+Disallow: http://vantaitrichau.com/Uploads/Editor/image/2013/HINH-ANH/28-10/khoa-than-Viet-vantaitrichau
+Disallow: http://vantaitrichau.com/Admin
